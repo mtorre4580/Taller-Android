@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="hint_email">Ingrese su email</string>
+    <string name="hint_password">Ingrese su password</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="text_crear_cuenta">Crear cuenta</string>
+</resources>
