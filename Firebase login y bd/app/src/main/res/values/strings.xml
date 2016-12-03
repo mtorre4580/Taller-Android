@@ -5,4 +5,9 @@
     <string name="button_login">Login</string>
     <string name="button_register">Register</string>
     <string name="text_crear_cuenta">Crear cuenta</string>
+    <string name="hint_publicar">¿En que estas pensando?</string>
+    <string name="button_publicar">Publicar</string>
+    <string name="dialog_publicar">Publicación</string>
+    <string name="dialog_mensaje_publicacion_exitosa">Se ha publicado su post!</string>
+    <string name="aceptar">Aceptar</string>
 </resources>

@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
                             Log.w(TAG, "signInWithEmail", task.getException());
                             Toast.makeText(getApplicationContext(), "Login fallido.",Toast.LENGTH_SHORT).show();
                         }else{
-                            Toast.makeText(getApplicationContext(), "Login exitoso.",Toast.LENGTH_SHORT).show();
+                            startActivity(new Intent(getApplicationContext(),Publicaciones.class));
                         }
                     }
                 });

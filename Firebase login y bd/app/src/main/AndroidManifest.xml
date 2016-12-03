@@ -15,7 +15,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".CrearUsuario"></activity>
+        <activity android:name=".CrearUsuario" />
+        <activity android:name=".Publicaciones" />
+        <activity android:name=".CrearPublicacion"></activity>
     </application>
 
 </manifest>
